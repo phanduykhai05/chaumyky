@@ -38,9 +38,9 @@ export function ContactCard() {
       <div className="bg-secondary/50 border border-border rounded-xl p-4">
         <div className="flex items-center gap-3 mb-3">
           <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center shrink-0">
-            <span className="text-black font-bold text-xs">GODA</span>
+            <span className="text-black font-bold text-xs">KC</span>
           </div>
-          <span className="text-gold-gradient font-semibold text-lg">HUAN.VN</span>
+          <span className="text-gold-gradient font-semibold text-lg">Châu Mỹ Kỳ</span>
         </div>
         <p className="text-primary text-sm">
           Ngồi ở nhà 1 người + 1 máy tính + AI đơn giản + quy trình GODA chi tiết là làm được ngay...

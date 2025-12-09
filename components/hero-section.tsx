@@ -29,7 +29,7 @@ export function HeroSection() {
 
             {/* Main Headline */}
             <h1 className="text-3xl sm:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight">
-              <span className="text-gold-gradient">KIẾM TIỀN TỪ YOUTUBE VỚI</span>
+              <span className="text-gold-gradient">HỌC HỎI TỪ YOUTUBE VỚI</span>
               <br />
               <span className="text-gold-gradient">CONTENT *AI* ĐƠN GIẢN</span>
             </h1>
@@ -88,7 +88,7 @@ export function HeroSection() {
               <div className="text-center mt-6">
                 <h3 className="text-gold-gradient text-xl font-bold">Châu Mỹ Kỳ</h3>
                 <p className="text-muted-foreground text-sm italic">
-                  Chairman GODA Holding, Founder BMG Group, Co-Founder Phong Thủy Phùng Gia
+                    Người sáng lập nền tảng KIẾM CHUYỆN TỪ LŨ QUỶ IU bằng AI
                 </p>
               </div>
             </div>
